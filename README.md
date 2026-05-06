@@ -1,12 +1,12 @@
 # Olá! Eu sou o Gabriel Milanez
 
-<div align="center"> <img src="https://camo.githubusercontent.com/a9ca6ccb7f08097dc00128a4acd546d5da3aa62027b7180fbdddd44e0bf6e0d3/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f38383031393431653036306361323036306133323936663062356361313365622f333037396566653366323432626438642d39332f73353030783735302f316136333162376365376638333538643335356262643364323033376439626431323166333935312e706e67" width="500px"/> 
+<!--<div align="center"> <img src="https://camo.githubusercontent.com/a9ca6ccb7f08097dc00128a4acd546d5da3aa62027b7180fbdddd44e0bf6e0d3/68747470733a2f2f36342e6d656469612e74756d626c722e636f6d2f38383031393431653036306361323036306133323936663062356361313365622f333037396566653366323432626438642d39332f73353030783735302f316136333162376365376638333538643335356262643364323033376439626431323166333935312e706e67" width="500px"/> -->
 
 Sejam bem vindos ao meu GitHub! 👋 Aqui é onde eu crio e desenvolvo minha paixão pelos recursos tecnológicos. Sou profissional atuante no mercado de TI desde 2014 e Desenvolvedor FullStack desde 2022, sempre acreditando na capacidade potencial da tecnologia em tornar melhor o mundo em que vivemos, assim como a vida das pessoas.
 
-### Atualmente, eu estudo e desenvolvo nas seguintes tecnologias 👇
+<!-- ### Atualmente, eu estudo e desenvolvo nas seguintes tecnologias 👇
 
-<div align="center" style="display: inline_block">
+<div align="center" style="display: inline-block;">
   <img align="center" alt="JavaScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"  />
   <img align="center" alt="TypeScript" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"  />
   <img align="center" alt="React.js" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg"  />
@@ -27,7 +27,7 @@ Sejam bem vindos ao meu GitHub! 👋 Aqui é onde eu crio e desenvolvo minha pai
 <div align="center" style="display: inline_block">  
     <img width="400cm" height="200cm" src="https://github-readme-stats.vercel.app/api?username=gabrielmiilanez&show_icons=true&theme=dracula" />
     <img width="400cm" height="200cm" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gabrielmiilanez&layout=compact&theme=dracula" />
-</div>
+</div> -->
 
 ---
 
